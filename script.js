@@ -11,8 +11,6 @@ var number = 1;
 var division = 20 / 5;
 
 //5
-var frog = animal
-
 typeof frog
 
 //6
